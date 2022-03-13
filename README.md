@@ -1,9 +1,9 @@
 <h1 align="center">My-naam.svg</h1>
 <h2 align="center">A simple svg generator.</h2>
 <p align="center">
- <a href="https://github.com/KodingKhurram/my-naam.svg/releases"><img src="https://img.shields.io/github/v/release/KodingKhurram/my-naam.svg.svg?style=for-the-badge"></a>
+ <!--<a href="https://github.com/KodingKhurram/my-naam.svg/releases" target="_blank"><img src="https://img.shields.io/github/v/release/KodingKhurram/my-naam.svg.svg?style=for-the-badge"></a>
  <a href="https://github.com/KodingKhurram/my-naam.svg/blob/main/LICENSE"><img src="https://img.shields.io/github/license/KodingKhurram/my-naam.svg.svg?style=for-the-badge"></a>
- <!--<a href="https://animate-dynamic.ga"><img src="https://img.shields.io/website.svg?down_color=red&down_message=down&style=for-the-badge&up_color=green&up_message=up&url=http%3A%2F%2Fshields.io"></a>-->
+ <a href="https://animate-dynamic.ga"><img src="https://img.shields.io/website.svg?down_color=red&down_message=down&style=for-the-badge&up_color=green&up_message=up&url=http%3A%2F%2Fshields.io"></a>-->
 </p>
 <h2> Overview </h2>
 <span> <strong>my-naam.svg</strong> is a simple svg generator with couple of themes and fonts, simple to use with CSS namespaces.</span>
@@ -15,7 +15,7 @@
   [![my-naame.svg](https://my-naam-svg.000webhostapp.com/?theme=flicker&text1=my-&text2=naam&text3=.svg&container=off&text-align=center&font-weight=bold&height=50)](https://github.com/KodingKhurram/my-naam.svg/)
   <li>Glow</li>
 
-  [![my-naame.svg](https://my-naam-svg.000webhostapp.com/?theme=glow&text=my-naam.svg&text-align=center&font-weight=bold&height=50)](https://github.com/KodingKhurram/my-naam.svg/)
+  [![my-naame.svg](https://my-naam-svg.000webhostapp.com/?theme=glow&text=my-naam.svg&text-align=center&container=off&font-weight=bold&height=50)](https://github.com/KodingKhurram/my-naam.svg/)
   <li>Transform</li>
 
   [![my-naame.svg](https://my-naam-svg.000webhostapp.com/?theme=transform&text=my_naam.svg&text-align=center&font-weight=bold&height=50)](https://github.com/KodingKhurram/my-naam.svg/)
