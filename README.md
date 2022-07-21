@@ -109,7 +109,7 @@ More detailed documentation in demo page :)
 </p>
 
 <h2> Demo </h2>
-<span>Coming soon.</span>
+<span><a href="https://kodingkhurram.github.io/my-naam-svg.demo/">Demo page</a></span>
 
 <h2>Example usage</h2>
 
